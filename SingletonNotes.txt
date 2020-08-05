@@ -1,0 +1,5 @@
+Singleton Notes
+
+	What is the Singleton pattern?
+		Used when you want to eliminate the option for instantiating more than one object
+		
